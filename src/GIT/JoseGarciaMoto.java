@@ -23,12 +23,7 @@ public String getMarca() {
 public void setMarca(String marca) {
 	this.marca = marca;
 }
-//
-//
-//
-//
-//
-//
+
 public int getNumMatr() {
 	return numMatr;
 }
@@ -52,4 +47,11 @@ public String getMoto() {
 public void setMoto(String moto) {
 	this.moto = moto;
 }
+private void loopName() {
+	for(int i=0;i>=1000;i++) {
+		System.out.println(moto);
+	}
+		
+}
+//
 }
