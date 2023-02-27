@@ -23,7 +23,7 @@ public String getMarca() {
 public void setMarca(String marca) {
 	this.marca = marca;
 }
-
+//
 public int getNumMatr() {
 	return numMatr;
 }
